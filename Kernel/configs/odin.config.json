@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "mix4",
-      "repo": "https://github.com/ruoqing501/kernel_xiaomi_odin.git",
-      "branch": "main",
+      "repo": "https://github.com/MrNya907/kernel_xiaomi_odin_mix4.git",
+      "branch": "MrNya907-Mix4-ksu",
       "device": "odin",
       "defconfig": "odin_defconfig"
     },
