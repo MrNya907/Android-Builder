@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Mi10",
-      "repo": "https://github.com/ruoqing501/kernel_xiaomi_odin-t.git",
-      "branch": "miui-t",
+      "name": "mix4",
+      "repo": "https://github.com/ruoqing501/kernel_xiaomi_odin.git",
+      "branch": "main",
       "device": "odin",
       "defconfig": "odin_defconfig"
     },
@@ -59,7 +59,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": true,
-    "enableLXC": true
+    "enableKernelSU": false,
+    "enableLXC": false
   }
 ]
